@@ -1,0 +1,77 @@
+body{
+    background-color: white;
+    font-family: sans-serif;
+    margin:0;
+}
+h1{
+    color:blue
+}
+p{
+    color:maroon
+}
+#one{
+    color:purple
+}
+#abc{
+    color:magenta;
+    font-size: 18pt;
+}
+.hello{
+  color:darkgoldenrod
+}
+.goals{
+    color:maroon
+}
+#header{
+    background-color:goldenrod;
+    text-align: center;
+    padding:20px;
+    border:1px solid black
+}
+#content{
+    background-color:white ;
+    width:80%;
+    margin:10px auto;
+    padding:20px;
+}
+.chrome{
+    background-color: lightgrey;
+    margin-top: 30px;
+    padding:20px;
+    border: 1px solid goldenrod;
+    border-radius: 15px;
+}
+#hero{
+    text-align: center;
+    height:250px;
+    background-image: url("../images/herob.jpg");
+    background-size: cover;
+    background-position: center;
+    padding-top: 90px;
+    color:white
+}
+#nav{
+    background-color: lightgrey;
+    padding:10px
+}
+#nav ul{
+    list-style-type: none;
+    text-align: center;
+    padding:0
+}
+#nav ul li{
+    display: inline;
+    margin:0 15px;
+}
+#nav ul li a{
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+    padding:8px 12px;
+
+}
+#nav ul li a:hover{
+    color: brown;
+    background-color: blue;
+  
+}
